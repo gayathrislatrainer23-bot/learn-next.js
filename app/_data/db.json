@@ -1,0 +1,63 @@
+{"users":[
+  {
+    "id": 1,
+    "name": "Arun Kumar",
+    "email": "arun@example.com",
+    "password": "arun@123"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "email": "priya@example.com",
+    "password": "priya@123"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "email": "rahul@example.com",
+    "password": "rahul@123"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Patel",
+    "email": "sneha@example.com",
+    "password": "sneha@123"
+  },
+  {
+    "id": 5,
+    "name": "Karthik Raj",
+    "email": "karthik@example.com",
+    "password": "karthik@123"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Iyer",
+    "email": "ananya@example.com",
+    "password": "ananya@123"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Singh",
+    "email": "vikram@example.com",
+    "password": "vikram@123"
+  },
+  {
+    "id": 8,
+    "name": "Meera Nair",
+    "email": "meera@example.com",
+    "password": "meera@123"
+  },
+  {
+    "id": 9,
+    "name": "Rohit Malhotra",
+    "email": "rohit@example.com",
+    "password": "rohit@123"
+  },
+  {
+    "id": 10,
+    "name": "Neha Kapoor",
+    "email": "neha@example.com",
+    "password": "neha@123"
+  }
+]
+}
